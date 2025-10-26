@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Data Engineering (Python)**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **react, next and react native**
 
