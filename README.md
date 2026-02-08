@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react, next and react native**
+- 💬 Ask me about **react, next, react native and Flutter**
 
 - 📫 How to reach me **saadahmed1742@gmail.com**
 
