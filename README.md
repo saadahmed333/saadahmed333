@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **react, next, react native and Flutter**
+- 💬 Ask me about **react, next, react native and flutter**
 
 - 📫 How to reach me **saadahmed1742@gmail.com**
 
